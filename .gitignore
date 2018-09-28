@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+build/
+*.iml
+target/
+trueautomation.json
+.classpath
+.project
